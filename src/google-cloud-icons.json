@@ -1,0 +1,42 @@
+{
+  "google.cloud.audit-logs": {
+    "label": "Cloud Audit Logs",
+    "width": 24,
+    "height": 24,
+    "category": "Google Cloud",
+    "color": "#4285f4",
+    "serviceCategory": "Management Tools"
+  },
+  "google.cloud.cloud-ids": {
+    "label": "Cloud IDS",
+    "width": 24,
+    "height": 24,
+    "category": "Google Cloud",
+    "color": "#4285f4",
+    "serviceCategory": "Security"
+  },
+  "google.cloud.network-connectivity-center": {
+    "label": "Network Connectivity Center",
+    "width": 24,
+    "height": 24,
+    "category": "Google Cloud",
+    "color": "#4285f4",
+    "serviceCategory": "Networking"
+  },
+  "google.cloud.private-service-connect": {
+    "label": "Private Service Connect",
+    "width": 24,
+    "height": 24,
+    "category": "Google Cloud",
+    "color": "#4285f4",
+    "serviceCategory": "Networking"
+  },
+  "google.firebase.cloud-messaging": {
+    "label": "Firebase Cloud Messaging",
+    "width": 132,
+    "height": 123,
+    "category": "Google Cloud",
+    "color": "#f57c00",
+    "serviceCategory": "Web & Mobile"
+  }
+}

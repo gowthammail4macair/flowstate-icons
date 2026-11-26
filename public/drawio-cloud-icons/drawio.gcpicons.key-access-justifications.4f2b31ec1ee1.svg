@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:v="https://vecta.io/nano" width="238.16233704859908" height="256" viewBox="30.169998168945312 0 373.9800109863281 401.9900207519531">
+	<style>
+		.B{fill:none}.C{stroke-miterlimit:10}.D{stroke:#579bfb}.E{stroke-width:42.667}.F{clip-path:url(#A)}
+		.st0{stroke:#579bfb;}
+		.st1{stroke:#abc9f8;}
+		.st2{stroke:#4283f2;}
+	</style>
+	<defs>
+		<clipPath id="A">
+			<path d="M0 0h512v512H0z" class="B"/>
+		</clipPath>
+	</defs>
+	<g transform="translate(-59.92 -48.52)" class="B F C">
+		<g class="st0 F E">
+			<path d="M288.74 48.52V98.7"/>
+		</g>
+		<g class="st0 E">
+			<path d="M164.76 99.88l35.48 35.47m-86.83 88.5h50.17m125.16 175.34v-50.18m123.98-1.18l-35.48-35.47"/>
+		</g>
+		<g class="st0 F E">
+			<path d="M464.07 223.85H413.9"/>
+		</g>
+		<g class="st0 E">
+			<path d="M412.72 99.88l-35.48 35.47m-228.1 231.57l32.85 32.87"/>
+		</g>
+		<g class="F">
+			<g class="E">
+				<path class="st1" d="M204.88 294.59L90.09 409.32l41.17 41.19"/>
+				<path d="M376.32 311.46a123.87 123.87 0 1 1 .07-175.21 123.92 123.92 0 0 1-.07 175.21z" class="st0"/>
+			</g>
+			<path class="st2" d="M227.74 227.9l37.8 39.27 84.21-86.65" stroke-width="21.333"/>
+		</g>
+	</g>
+</svg>

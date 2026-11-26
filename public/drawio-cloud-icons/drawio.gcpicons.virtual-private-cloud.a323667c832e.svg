@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:v="https://vecta.io/nano" width="20" height="20" viewBox="0 0 20 20">
+	<style type="text/css">
+	.st0{fill:#4285f4;}
+	.st1{fill:#669df6;}
+	.st2{fill:#aecbfa;}
+	</style>
+	<path class="st2" d="M14 0h6v6h-6z"/>
+	<path class="st1" d="M17 0h3v6h-3z"/>
+	<path class="st2" d="M14 14h6v6h-6z"/>
+	<path class="st1" d="M17 14h3v6h-3z"/>
+	<path class="st2" d="M0 0h6v6H0z"/>
+	<path class="st1" d="M3 0h3v6H3z"/>
+	<path class="st2" d="M0 14h6v6H0z"/>
+	<g class="st1">
+		<path d="M3 14h3v6H3zM6 2h8v2H6z"/>
+		<path d="M6 16h8v2H6zM16 6h2v8h-2zM2 6h2v8H2z"/>
+	</g>
+	<path class="st0" d="M2 6h2v2H2zm14 0h2v2h-2zM6 2h2v2H6zm0 14h2v2H6z"/>
+</svg>

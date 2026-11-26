@@ -1,0 +1,16 @@
+Flowstate's original code and project-authored documentation and artwork are
+licensed under either of the following licenses, at your option:
+
+  * MIT License (LICENSE-MIT)
+  * Apache License, Version 2.0 (LICENSE-APACHE)
+
+SPDX-License-Identifier: MIT OR Apache-2.0
+Copyright (c) 2026 Flowstate contributors
+
+This choice applies only to rights in original Flowstate contributions.
+Third-party libraries, fonts, and vendor artwork identified in NOTICE
+retain their own terms and are excluded from
+this dual-license grant. See NOTICE, THIRD_PARTY_NOTICES.md, and
+docs/licensing.md for their scope, attribution, source locations, and
+unresolved distribution questions. This repository does not grant additional
+rights in third-party names, logos, or trademarks.

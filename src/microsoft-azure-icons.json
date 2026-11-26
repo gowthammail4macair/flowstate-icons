@@ -1,0 +1,42 @@
+{
+  "microsoft.azure.confidential-clean-rooms": {
+    "label": "Azure Confidential Clean Rooms",
+    "width": 18,
+    "height": 18,
+    "category": "Azure",
+    "color": "#0079d6",
+    "serviceCategory": "Security"
+  },
+  "microsoft.azure.container-apps-sandboxes": {
+    "label": "Azure Container Apps Sandboxes",
+    "width": 18,
+    "height": 18,
+    "category": "Azure",
+    "color": "#0079d6",
+    "serviceCategory": "Containers"
+  },
+  "microsoft.azure.horizondb": {
+    "label": "Azure HorizonDB",
+    "width": 18,
+    "height": 18,
+    "category": "Azure",
+    "color": "#0079d6",
+    "serviceCategory": "Databases"
+  },
+  "microsoft.azure.device-registry": {
+    "label": "Azure Device Registry",
+    "width": 18,
+    "height": 18,
+    "category": "Azure",
+    "color": "#0079d6",
+    "serviceCategory": "Internet of Things"
+  },
+  "microsoft.azure.defender-for-cloud": {
+    "label": "Microsoft Defender for Cloud",
+    "width": 18,
+    "height": 18,
+    "category": "Azure",
+    "color": "#0079d6",
+    "serviceCategory": "Security"
+  }
+}

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:v="https://vecta.io/nano" width="18.31999969482422" height="20.000001907348633" viewBox="0 0 18.31999969482422 20.000001907348633">
+	<style type="text/css">
+	.st0{fill:#669df6;}
+	.st1{fill:#4285f4;}
+	.st2{fill:#aecbfa;}
+	</style>
+	<defs>
+		<filter id="A" x="4.64" y="4.19" width="14.73" height="12.76" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-color="#fff"/>
+			<feBlend in="SourceGraphic"/>
+		</filter>
+		<mask id="B" x="4.64" y="4.19" width="14.73" height="12.76" maskUnits="userSpaceOnUse">
+			<circle cx="12" cy="12.23" r="3.58" filter="url(#A)"/>
+		</mask>
+	</defs>
+	<g class="st0">
+		<circle cx="16.13" cy="6.21" r="1.72"/>
+		<circle cx="2.19" cy="6.21" r="1.72"/>
+		<circle cx="9.16" cy="18.28" r="1.72"/>
+	</g>
+	<g mask="url(#B)" transform="translate(-2.84 -2)">
+		<path transform="matrix(.5 -.87 .87 .5 -4.59 20.53)" d="M14.69 10.22h1.59v8.04h-1.59z" class="st1"/>
+		<path transform="rotate(330 8.523 14.244)" d="M4.49 13.45h8.04v1.59H4.49z" class="st1"/>
+		<path d="M11.2 4.19h1.59v8.04H11.2z" class="st1"/>
+	</g>
+	<g class="st2">
+		<circle cx="9.16" cy="10.23" r="2.78"/>
+		<circle cx="2.19" cy="14.25" r="2.19"/>
+		<circle cx="16.13" cy="14.25" r="2.19"/>
+		<circle cx="9.16" cy="2.19" r="2.19"/>
+	</g>
+</svg>

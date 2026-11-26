@@ -1,0 +1,98 @@
+Flowstate
+Copyright (c) 2026 Flowstate contributors
+
+Original Flowstate contributions are licensed under the MIT License or the
+Apache License, Version 2.0, at your option (LICENSE-MIT, LICENSE-APACHE).
+The following third-party material is excluded from that grant and retains
+its respective terms. A file's inclusion here does not change its license
+or establish any permission beyond its rights holder's applicable terms.
+
+Software dependencies
+---------------------
+Dependencies retain their own copyright and license notices. The locked
+inventory, source locations, and collected license texts are in
+public/legal/dependencies.json and public/legal/DEPENDENCY-LICENSES.txt.
+See THIRD_PARTY_NOTICES.md for direct dependencies and ELK source access.
+
+Lucide icons are under the ISC license; the upstream notice also preserves
+the Feather/MIT attribution for derived icons (Copyright (c) 2013-2022
+Cole Bemis). The complete Lucide notice is included in the collected texts.
+ELK/elkjs is used under EPL-2.0, separately from Flowstate's code license.
+Sharp is Apache-2.0; its optional native libraries have additional terms.
+
+Fonts
+-----
+public/fonts/dm-sans-variable.ttf: DM Sans, SIL Open Font License 1.1.
+public/fonts/instrument-serif.ttf and instrument-serif-italic.ttf:
+Instrument Serif, SIL Open Font License 1.1.
+The full upstream copyright notices and OFL texts are in public/fonts/.
+Source links are in public/fonts/ASSET-SOURCES.md.
+
+AWS service icons
+-----------------
+public/aws-icons/*.svg: 303 AWS Architecture Service Icons, July 31, 2026
+release, copied without artwork modification. AWS names and artwork belong
+to Amazon Web Services and/or its affiliates. These files are not MIT or
+Apache-2.0 licensed by Flowstate. See public/aws-icons/ASSET-SOURCES.md and
+https://aws.amazon.com/architecture/icons/ for their source and guidance.
+Architecture-diagram use is described there; a general permission to
+redistribute the complete collection inside an independent public library
+has not been established in this project's review.
+
+draw.io stencil adaptations and template
+----------------------------------------
+public/drawio-stencils/ and src/drawio-stencils.json contain adaptations of
+JGraph / draw.io v24.7.17 assets: 1,013 AWS4 symbols, 293 AWS3 symbols,
+four Microsoft-related symbols, and one Cisco symbol. JGraph-provided
+icons are published under CC BY 4.0, with additional original-vendor terms
+potentially applicable. Attribution, exact source files, and changes are
+in public/drawio-stencils/ASSET-SOURCES.md and docs/drawio-import.md.
+The CC BY 4.0 text is in docs/LICENSE.drawio-stencils.txt.
+
+The five Microsoft/Cisco symbols are Office user, Azure scheduler,
+Shared_Dashboard, SchedulerJobCollection, and Cisco web browser. Their
+original owners retain their rights. The current Azure/Cisco guidelines
+do not establish permission for every historical converted asset.
+See docs/vendor-artwork.md for the rendering changes and limited scope.
+
+The Azure and Google Cloud libraries in public/drawio-cloud-icons/ are
+adapted from draw.io v32.7.4 and the legacy v24.7.17 GCP2 sidebar. They
+include 1,651 Azure and 616 Google Cloud icons. See the asset source notice
+above for the upstream terms, original vendor rights, and conversion details.
+
+Four Google Cloud legacy console SVGs in public/google-cloud-icons/ come
+directly from Google's icon library. Source paths and usage guidance are in
+public/google-cloud-icons/ASSET-SOURCES.md. Google retains rights in that artwork.
+The Firebase Cloud Messaging SVG in the same directory comes from Firebase's brand asset library.
+
+Five Azure architecture SVGs in public/microsoft-azure-icons/ come from
+Microsoft's V25 download. See public/microsoft-azure-icons/ASSET-SOURCES.md
+for the source paths and Microsoft's icon terms.
+
+The two flowstate.* symbols (Python document and curly bracket) are
+original project artwork and use Flowstate's dual license.
+
+tests/fixtures/drawio/official-flowchart.xml is a JGraph / draw.io template
+under CC BY 4.0. Its exact revision, hash, source, and license are recorded
+in tests/fixtures/drawio/README.md and LICENSE.drawio-templates.txt.
+
+Original regression diagrams
+----------------------------
+tests/fixtures/complex-diagram.flowstate.json,
+tests/fixtures/drawio/community-garden.drawio.xml, and
+tests/fixtures/drawio/book-lending.drawio.xml are project-authored examples.
+Their original content uses MIT OR Apache-2.0. Referenced vendor symbols
+retain their separate terms. See tests/fixtures/README.md.
+
+Trademarks and remaining scope
+------------------------------
+Flowstate is an independent project inspired by tools such as Eraser and
+draw.io. It is not affiliated with or endorsed by Eraser Labs or JGraph.
+
+Eraser, AWS, Microsoft, Cisco, JGraph / draw.io, OpenAI, ChatGPT, Codex, and other
+third-party names are used to identify their respective products or
+compatibility. Their inclusion implies no endorsement or affiliation.
+No third-party trademark rights are granted by Flowstate's code licenses.
+All vendor icon packs remain present; this notice does not certify their
+unresolved redistribution scope. See docs/licensing.md for the current
+review and the distinction between source and native-binary packaging.
